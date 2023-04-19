@@ -1,4 +1,4 @@
 basic.showIcon(IconNames.TShirt)
 basic.forever(function () {
-    music.playMelody("G A G A G A G A ", 166)
+    music.playMelody("G B A G C5 B A B ", 166)
 })
